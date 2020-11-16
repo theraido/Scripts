@@ -1,0 +1,2 @@
+testfiles
+nu met edit, moet je als modified zien, moet weer gestaged worden.
