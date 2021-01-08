@@ -1,0 +1,12 @@
+[
+    {
+      "vegetable": "tomato",
+      "vpd_low": 0.9,
+      "vpd_high": 1.2
+    },
+    {
+      "vegetable": "zucchini",
+      "vpd_low": 1.1,
+      "vpd_high" : 1.7
+    }
+  ]
