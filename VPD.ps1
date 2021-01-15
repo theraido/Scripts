@@ -1,4 +1,19 @@
-#VPDCalc https://betterorganix.com/blog/what-is-how-to-calculate-vapour-pressure-deficit/
+<#
+.SYNOPSIS
+
+.DESCRIPTION 
+Vapour Pressure Deficit (VPD) is a measure of the drying power of your air. With this metric you can more easily evaluate and mitigate threats of crop diseases, 
+better adjust your watering or irrigation and fine-tune your nutrient concentration for all stages of growth. 
+
+https://betterorganix.com/blog/what-is-how-to-calculate-vapour-pressure-deficit/
+
+.EXAMPLE
+VapourPressureDeficit -T 20 -RH 50
+.NOTES
+Written by: TheRaido
+#>
+
+
 function VapourPressureDeficit {
     param (
 
